@@ -5,3 +5,4 @@ it is very intresting course
 ashokit has the best classes for this course 
 devops with aws
 ashokit placed in hydrabad
+i have joined this classes on 1 feb
