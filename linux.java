@@ -5,5 +5,11 @@ welcome linux os{
   a=20
   b=10
 
+ //task -101 changes
+ m1(){
+    .....
+
+ }
+
 }
 
