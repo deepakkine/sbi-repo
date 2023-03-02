@@ -1,7 +1,9 @@
 welcome linux os{
 
-a=20
-b=10
+  //task 120 changes
+  int i=30
+  a=20
+  b=10
 
 }
 
