@@ -1,2 +1,0 @@
-dk-deepak kine
-
